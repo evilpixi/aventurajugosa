@@ -1,0 +1,79 @@
+{
+    SplashScene: {
+        buttonPlay: "Jugar"
+        buttonHowToPlay: "¿Cómo Jugar?"
+    }
+    HelpScene: {
+        title: "¿CÓMO JUGAR?"
+        pages: [
+            "SALTA Y CONSIGUE LAS FRUTAS",
+            "EVITA LOS OBSTACULOS PARA NO PERDER VIDAS"
+	    "ACUMULA PUNTOS RECOLECTANDO\nFRUTAS, BURBUJAS, COMPLETANDO\nARTEFACTOS Y DERROTANDO VILLANO"
+	    "EVITA LOS OBSTÁCULOS, JUNTA BURBUJAS\nDE ENERGÍA PARA COMPLETAR LA BARRA DE\nENERGÍA Y DERROTAR VILLANOS"
+	    "RECOLECTA LAS PIEZAS DE UN ARTEFACTO\nPARA PODER COMPLETARLO"
+			""
+		]
+        /*fruitsAndJump: "SALTA Y CONSIGUE LAS FRUTAS"
+        avoidObstacles: "EVITA LOS OBSTACULOS PARA NO PERDER VIDAS"
+        lifes: "VIDAS"
+        fruitsCollected: "FRUTAS\nRECOLECTADAS"
+        bonus: "BONUS"
+        lifesText: "RECOLECTA VIDAS PARA\nCONTINUAR JUGANDO\nEN CADA NIVEL."
+        fruitsCollectedText: "RECOLECTA LAS FRUTAS\nPARA SUMAR PUNTOS EN\nCADA NIVEL."
+        bonusText: "OBTIENE BONUS EN\nOMNITRIX MATCH PARA\nDUPLICAR TU PUNTAJE."
+        fruits: "FRUTAS"
+        artifacts: "ARTEFACTOS"
+        fruitsAndArtifacts: "CONSIGUE FRUTAS Y ARTEFACTOS\nQUE TE INDIQUE CADA NIVEL."*/
+    }
+    OptionsScene: {
+        title: "OPCIONES"
+    }
+    UIScene: {
+        level: "NIVEL"
+        score: "PUNTOS"
+    }
+    LevelEndScene: {
+        titleWin: "GANASTE"
+        titleLost: "PERDISTE"
+        noLifes: "TE HAS QUEDADO\nSIN VIDAS"
+        fruits: "FRUTAS"
+        archievements: "LOGROS"
+        yourScore: "TU PUNTAJE"
+        bonus: "BONUS"
+        omnitrix: "OMNITRIX MATCH"
+        total: "TOTAL PUNTOS"
+        accumulate: "PUNTOS\nACUMULADOS"
+    }
+    CharacterSelectionScene: {
+        title: "ELIGE UN PERSONAJE"
+    }
+    LevelSelectionScene: {
+        title: "NIVELES Y MUNDOS"
+        userName: "INVITADO"
+        points: "PUNTOS\nACUMULADOS"
+    }
+    RankingScene: {
+        title: "RANKING"
+        loadingName: "loadingRANK..."
+        waitingName: "CARGANDO..."
+        points: "PT"
+        rank: "PUESTO"
+    }
+    ArchievementsScene: {
+        title: "TUS LOGROS"
+        artifacts: "ARTEFACTOS"
+        medals: "MEDALLAS"
+        accumulate: "PUNTOS ACUMULADOS"
+        fruits: "FRUTAS"
+        ben10: "BEN 10"
+        filters: "FILTROS"
+        stickers: "STICKERS"
+        accesories: "ACCESORIOS"
+        good: "¡BIEN!\n"
+        medalNames: {
+            apple: "ORO"
+            jojo: "PLATA"
+            mixer: "BRONCE"
+        }
+    }
+}

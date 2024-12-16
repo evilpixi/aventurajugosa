@@ -1,0 +1,120 @@
+// ----------------------------- LEVEL 1 ---------------------------------
+{
+    worldName: su
+    levelNumber: 2
+    structure: {
+        startRoom: [
+            "   ,   ,   ,   ,   ,   ,   ,   ,   "
+            "   ,   ,   ,   ,   ,   ,   ,   ,   "
+            "   ,___, _ ,___,   ,   ,   ,   ,pow"
+            "   ,   ,   ,   ,___,___,__|,   ,   "
+            "   ,   , _ ,   ,__|,|__,___,   , _ "
+            "   ,___,   ,|°°,   ,   ,   ,   ,   "
+            "   ,   ,   ,|  ,°°°,°°|,   ,___,___"
+            "   ,e07,___,|  ,ky1,   ,   ,pow,0|1"
+            "|°°,   ,   ,|  ,___,__|,°°°,°°°,°°°"
+            "|__,   ,__|,|__,|__,   , _ ,   ,e02"
+            "ply,°°°,   ,   ,   ,___,   ,   ,   "
+        ],
+        rooms1: [
+            ["   ,fr2,   ,fr2, _ ,   ,___,   ,___,   ,"
+            "fr2,___,   ,   ,   ,   ,   ,   ,fr1,   ,"
+            "   ,   ,fr1,___,   ,e04,   ,   ,fr1,   ,"
+            "   ,   ,   ,   ,   ,   ,fr1, _ ,fr1,   ,"
+            "   ,   ,e04,fr2,   ,___,   ,   , _ ,e04,"
+            "   ,fr2,   ,   ,   ,   , _ ,   ,   , _ ,"
+            "fr2,   ,e06,   ,   ,fr3,   ,fr2,   ,   ,"
+            "   ,   ,   ,fr1,   , _ ,   , _ ,e05,   ,"
+            "   ,___,pow,   , _ ,   ,e04,   ,___,fr1,"
+            "   ,   ,   ,e02,   ,e02, _ ,   ,   ,   ,"
+            "   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,"],
+            ["   ,fr2,   ,fr2, _ ,   ,___,   ,___,   ,"
+            "fr2,___,   ,   ,   ,   ,   ,   ,fr1,   ,"
+            "   ,   ,fr1,___,   ,e04,   ,   ,fr1,   ,"
+            "   ,   ,   ,   ,   ,   ,fr1, _ ,fr1,   ,"
+            "   ,   ,e04,fr2,   ,___,   ,   , _ ,e04,"
+            "   ,fr2,   ,   ,   ,   , _ ,   ,   , _ ,"
+            "fr2,   ,e06,   ,   ,fr3,   ,fr2,   ,   ,"
+            "   ,   ,   ,fr1,   , _ ,   , _ ,e05,   ,"
+            "   ,___,pow,   , _ ,   ,e04,   ,___,fr1,"
+            "   ,   ,   ,e02,   ,e02, _ ,   ,   ,   ,"
+            "   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,"]
+        ],
+        rooms2: [
+            [
+            "   ,fr2,   ,fr2, _ ,   ,___,   ,___,   ,"
+            "fr2,___,   ,   ,   ,   ,   ,   ,fr1,   ,"
+            "   ,   ,fr1,___,   ,e04,   ,   ,fr1,   ,"
+            "   ,   ,   ,   ,   ,   ,fr1, _ ,fr1,   ,"
+            "   ,   ,e04,fr2,   ,___,   ,   , _ ,e04,"
+            "   ,fr2,   ,   ,   ,   , _ ,   ,   , _ ,"
+            "fr2,   ,e06,   ,   ,fr3,   ,fr2,   ,   ,"
+            "   ,   ,   ,fr1,   , _ ,   , _ ,e05,   ,"
+            "   ,___,pow,   , _ ,   ,e04,   ,___,fr1,"
+            "   ,   ,   ,e02,   ,e02, _ ,   ,   ,   ,"
+            "   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,"
+            ]
+        ]
+        rooms3: [
+            ["   ,fr2,   ,fr2, _ ,   ,___,   ,___,   ,"
+            "fr2,___,   ,   ,   ,   ,   ,   ,fr1,   ,"
+            "   ,   ,fr1,___,   ,e04,   ,   ,fr1,   ,"
+            "   ,   ,   ,   ,   ,   ,fr1, _ ,fr1,   ,"
+            "   ,   ,e04,fr2,   ,___,   ,   , _ ,e04,"
+            "   ,fr2,   ,   ,   ,   , _ ,   ,   , _ ,"
+            "fr2,   ,e06,   ,   ,fr3,   ,fr2,   ,   ,"
+            "   ,   ,   ,fr1,   , _ ,   , _ ,e05,   ,"
+            "   ,___,pow,   , _ ,   ,e04,   ,___,fr1,"
+            "   ,   ,   ,e02,   ,e02, _ ,   ,   ,   ,"
+            "   ,   ,   ,   ,   ,   ,   ,   ,   ,   ,"
+            ]
+        ]
+        finalRoom:
+        [
+            "   , _ ,   ,   "
+            "   ,   ,   ,   "
+            "   ,   ,   ,   "
+            "   ,   ,   ,pow"
+            "___,   ,   ,   "
+            "   ,   ,   ,fr1"
+            "   ,   ,   ,   "
+            "   ,pow,   ,   "
+            "   ,   ,___,   "
+            "   ,   ,   ,end"
+            "   ,   ,   ,   "
+        ]
+
+    }
+    enemies: [
+        { id: 1, type: "rubies", config: {walkWidth: 300, walkSpeed: 100, shoot:{
+            speed: 250,
+            distance: 500,
+            cooldown: 2000,
+            aimToPlayer: false
+        }}}
+        { id: 2, type: "rubies", config: {flyHeight: 100, flySpeed: 110, scale: 0.5}}
+        { id: 3, type: "corrupted", config: {flyHeight: 100, flySpeed: 100, scale: 0.7}}
+        { id: 4, type: "corrupted", config: {walkWidth: 250, walkSpeed: 60}}
+        { id: 5, type: "rubies", config: {flyHeight: 100, flySpeed: 170, scale: 0.6}}
+        { id: 6, type: "rubies", config: {flyHeight: 100, flySpeed: 130, scale: 0.7}}
+        { id: 7, type: "rubies", config: {flyHeight: 130, flySpeed: 120, scale: 0.7}}
+        { id: 8, type: "corrupted", config: {flyHeight: 160, flySpeed: 130, scale: 0.6}}
+    ]
+    bonus: [
+        { id: 1, type: "sticker-1"}
+        { id: 2, type: "accesory-1"}
+        { id: 3, type: "filter-1"}
+    ]
+    fruits: [
+        { id: 1, type: "guava"}
+        { id: 2, type: "mango"}
+        { id: 3, type: "red-apple"}
+    ]
+    artifacts: [
+        { id: 1, type: "shaker", side: "left"}
+    ]
+    config: {
+        tileWidth: 198//197
+        tileHeight: 200
+    }
+}

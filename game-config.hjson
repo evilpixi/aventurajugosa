@@ -1,0 +1,43 @@
+{
+    // character data
+    walkSpeed: 420,
+    jumpSpeed: 1180,
+
+    playerShootRange: 1000
+    playerShootSpeed: 1500
+
+    invulnerableTime: 1500
+
+    characterFrameRate: 7
+
+    maxLifes: 3
+    
+    maxPower: 100
+    powerPerShoot: 10
+    powerFromBubbles: 20
+
+    score: {
+        fruit: 10,
+        bonus: 10,
+        artifact: 10,
+        enemy: 10
+    }
+
+    enemyDefaultShoot: {
+        speed: 250
+        distance: 500
+        cooldown: 2000
+        aimToPlayer: false
+    }
+
+    
+    bosses: {
+        standTime: 2000
+        timeBetweenPatterns: 1000
+    }
+
+    
+    // site data
+    rankingNumber: 100
+    trackCooldown: 1000
+}

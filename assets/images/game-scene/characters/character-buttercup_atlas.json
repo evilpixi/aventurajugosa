@@ -1,0 +1,294 @@
+{
+    "frames": [
+        {
+            "filename": "character-buttercup-die-air1",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 0,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "character-buttercup-die-air2",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 180,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "character-buttercup-die-angel1",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 360,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "character-buttercup-die-angel2",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 540,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "character-buttercup-jump2",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 720,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "character-buttercup-jump1",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 0,
+                "y": 220
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "character-buttercup-pow1",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 180,
+                "y": 220
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "character-buttercup-pow2",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 360,
+                "y": 220
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "character-buttercup-pow3",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 540,
+                "y": 220
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "character-buttercup-stand1",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 720,
+                "y": 220
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "character-buttercup-stand2",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 0,
+                "y": 440
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "character-buttercup-stand3",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 180,
+                "y": 440
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "character-buttercup-stand4",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 360,
+                "y": 440
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "character-buttercup-wait1",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 540,
+                "y": 440
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "character-buttercup-wait2",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 720,
+                "y": 440
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "character-buttercup-wait3",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 0,
+                "y": 660
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "character-buttercup-wait4",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 180,
+                "y": 660
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "character-buttercup-wait5",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 360,
+                "y": 660
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "character-buttercup-walk1",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 540,
+                "y": 660
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "character-buttercup-walk2",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 720,
+                "y": 660
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "character-buttercup-walk3",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 0,
+                "y": 880
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "character-buttercup-walk4",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 180,
+                "y": 880
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Gamma V2",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}

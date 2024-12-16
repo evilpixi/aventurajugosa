@@ -1,0 +1,112 @@
+{
+    "frames": [
+        {
+            "filename": "enemy-su-rubies-die1",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 0,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "enemy-su-rubies-die2",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 180,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "enemy-su-rubies-pow1",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 360,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "enemy-su-rubies-stand3",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 0,
+                "y": 220
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "enemy-su-rubies-pow3",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 180,
+                "y": 220
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "enemy-su-rubies-stand1",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 360,
+                "y": 220
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "enemy-su-rubies-pow2",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 0,
+                "y": 440
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "enemy-su-rubies-stand2",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 180,
+                "y": 440
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Gamma V2",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}

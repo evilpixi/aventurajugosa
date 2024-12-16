@@ -1,0 +1,294 @@
+{
+    "frames": [
+        {
+            "filename": "character-jake-die-air1",
+            "frame": {
+                "w": 171,
+                "h": 220,
+                "x": 0,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "character-jake-die-air2",
+            "frame": {
+                "w": 171,
+                "h": 220,
+                "x": 171,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "character-jake-die-angel1",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 342,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "character-jake-die-angel2",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 522,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "character-jake-jump1",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 702,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "character-jake-pow1",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 0,
+                "y": 220
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "character-jake-pow2",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 180,
+                "y": 220
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "character-jake-pow3",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 360,
+                "y": 220
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "character-jake-stand1",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 540,
+                "y": 220
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "character-jake-stand2",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 720,
+                "y": 220
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "character-jake-stand3",
+            "frame": {
+                "w": 171,
+                "h": 220,
+                "x": 0,
+                "y": 440
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "character-jake-stand4",
+            "frame": {
+                "w": 171,
+                "h": 220,
+                "x": 171,
+                "y": 440
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "character-jake-stand7",
+            "frame": {
+                "w": 171,
+                "h": 220,
+                "x": 342,
+                "y": 440
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "character-jake-stand8",
+            "frame": {
+                "w": 171,
+                "h": 220,
+                "x": 513,
+                "y": 440
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "character-jake-wait1",
+            "frame": {
+                "w": 171,
+                "h": 220,
+                "x": 684,
+                "y": 440
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "character-jake-wait2",
+            "frame": {
+                "w": 171,
+                "h": 220,
+                "x": 0,
+                "y": 660
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "character-jake-wait3",
+            "frame": {
+                "w": 171,
+                "h": 220,
+                "x": 171,
+                "y": 660
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "character-jake-wait4",
+            "frame": {
+                "w": 171,
+                "h": 220,
+                "x": 342,
+                "y": 660
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "character-jake-walk1",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 513,
+                "y": 660
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "character-jake-walk2",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 693,
+                "y": 660
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "character-jake-walk3",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 0,
+                "y": 880
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "character-jake-walk4",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 180,
+                "y": 880
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Gamma V2",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}

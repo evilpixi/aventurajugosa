@@ -1,0 +1,15 @@
+{
+    "image": "gothamotf",
+    "width": 30,
+    "height": 44,
+    "chars": "0123456789",
+    "offset": {
+        "x": 0,
+        "y": 0
+    },
+    "spacing": {
+        "x": 0,
+        "y": 0
+    },
+    "charsPerRow": 15
+}

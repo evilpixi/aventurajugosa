@@ -1,0 +1,177 @@
+{
+    "frames": [
+        {
+            "filename": "boss-die1",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 0,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "boss-die2",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 180,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "boss-nom-pow1",
+            "frame": {
+                "w": 245,
+                "h": 300,
+                "x": 360,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "boss-nom-pow2",
+            "frame": {
+                "w": 245,
+                "h": 300,
+                "x": 605,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "boss-nom-pow3",
+            "frame": {
+                "w": 245,
+                "h": 300,
+                "x": 0,
+                "y": 300
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "boss-nom-stand1",
+            "frame": {
+                "w": 245,
+                "h": 300,
+                "x": 245,
+                "y": 300
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "boss-nom-stand2",
+            "frame": {
+                "w": 245,
+                "h": 300,
+                "x": 490,
+                "y": 300
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "boss-nom-stand3",
+            "frame": {
+                "w": 245,
+                "h": 300,
+                "x": 735,
+                "y": 300
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "boss-nom-stand4",
+            "frame": {
+                "w": 245,
+                "h": 300,
+                "x": 0,
+                "y": 600
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "boss-nom-walk1",
+            "frame": {
+                "w": 245,
+                "h": 300,
+                "x": 245,
+                "y": 600
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "boss-nom-walk2",
+            "frame": {
+                "w": 245,
+                "h": 300,
+                "x": 490,
+                "y": 600
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "boss-nom-walk3",
+            "frame": {
+                "w": 245,
+                "h": 300,
+                "x": 735,
+                "y": 600
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "boss-nom-walk4",
+            "frame": {
+                "w": 245,
+                "h": 300,
+                "x": 0,
+                "y": 900
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Gamma V2",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}

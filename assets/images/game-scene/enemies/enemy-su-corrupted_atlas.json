@@ -1,0 +1,112 @@
+{
+    "frames": [
+        {
+            "filename": "enemy-su-corrupted-die1",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 0,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "enemy-su-corrupted-die2",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 180,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "enemy-su-corrupted-pow1",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 360,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "enemy-su-corrupted-pow2",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 0,
+                "y": 220
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "enemy-su-corrupted-pow3",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 180,
+                "y": 220
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "enemy-su-corrupted-stand1",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 360,
+                "y": 220
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "enemy-su-corrupted-stand2",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 0,
+                "y": 440
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "enemy-su-corrupted-stand3",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 180,
+                "y": 440
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Gamma V2",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}

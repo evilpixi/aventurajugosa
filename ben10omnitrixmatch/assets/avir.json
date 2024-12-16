@@ -1,0 +1,15 @@
+{
+    "image": "avir",
+    "width": 73,
+    "height": 73,
+    "chars": "0123456789",
+    "offset": {
+        "x": 0,
+        "y": 0
+    },
+    "spacing": {
+        "x": 0,
+        "y": 0
+    },
+    "charsPerRow": 15
+}

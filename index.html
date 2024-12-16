@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover"> 
+    <title>Aventura Jugosa</title>
+
+    <script src="./lib/jquery-latest.min.js" type="text/javascript"></script>
+    <!-- <script src="./lib/cndata.js" type="text/javascript"></script> -->
+    <script src="lib/webfont.js"></script>
+    <script src="js/storing.js"></script>
+    <script src="js/api.js"></script>
+    <script src="lib/phaser.js"></script>
+    <script src="lib/hjson.min.js"></script>
+    <style>
+        html {
+            height: 100%;
+            overflow: hidden;
+        }
+        canvas {
+            z-index: 1;
+        }
+        body {            
+            margin:0;
+            padding:0;
+            overflow: hidden;
+            /*height: 100vh; 
+            min-height: 100vh;
+            max-height: 100vh; */
+            background-color:transparent;
+        }
+        /* Safari 10.1+ */
+        /*@media not all and (min-resolution:.001dpcm) {
+            .body { 
+                margin:0;
+                margin-top:-28px;
+                padding:0;
+                background-color: transparent;            
+                overflow:hidden;
+                overflow-y:hidden;
+            }
+        }
+        .iOsFix {
+            margin-top: -30px;
+        }*/
+        .girar {
+            position: absolute;
+            z-index: 9;
+            top: 0px;
+            bottom: 0px;
+            left: 0px;
+            right: 0px;
+            background-color: #fff;
+            background-image: url("assets/images/portrait.png");
+            background-position: center center;
+            background-size: 100%;
+            background-repeat: no-repeat;
+            display: none;
+        }
+        .canvashide {
+            display: none;
+        }
+        first-div {
+            margin: auto;
+            width: 100% !important;
+            background-color:aqua;
+        }
+    </style>
+</head>
+<!-- comment x  D-->
+<body>   
+    <div id="first-div"></div>
+    <div id="divgirar" class="girar"></div>
+    <script src="ben10omnitrixmatch/src/TweenMax.min.js"></script>
+    <script src="js/global-data.js"></script>
+    <script src="js/utils.js"></script>
+    <script src="js/boot-scene.js"></script>
+    <script src="js/splash-scene.js"></script>
+    <script src="js/help-scene.js"></script>
+    <script src="js/options-scene.js"></script>
+    <script src="js/game/parser.js"></script>
+    <script src="js/game/character.js"></script>
+    <script src="js/game/enemy.js"></script>
+    <script src="js/game/boss.js"></script>
+    <script src="js/game/ally.js"></script>
+    <script src="js/game/collectable.js"></script>
+    <script src="js/game/ui-scene.js"></script>
+    <script src="js/game/game-scene.js"></script>  
+    <script src="js/level-end-scene.js"></script>  
+    <script src="js/level-selection-scene.js"></script>
+    <script src="js/ranking-scene.js"></script>
+    <script src="js/archievements-scene.js"></script>
+    <script src="js/character-selection-scene.js"></script>
+    <script src="js/gamification.js"></script>
+
+    <script src="ben10omnitrixmatch/src/playGame.js"></script>
+    <script src="ben10omnitrixmatch/src/preloadGame.js"></script>
+
+    <script src="js/main.js"></script>
+    
+    <script src="js/fake_services.js"></script>
+</body>
+</html>

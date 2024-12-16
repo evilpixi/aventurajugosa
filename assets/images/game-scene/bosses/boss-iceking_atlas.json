@@ -1,0 +1,177 @@
+{
+    "frames": [
+        {
+            "filename": "boss-iceking-die1",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 0,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "boss-iceking-die2",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 180,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "boss-iceking-pow1",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 360,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "boss-iceking-pow2",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 540,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "boss-iceking-pow3",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 0,
+                "y": 220
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "boss-iceking-stand1",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 180,
+                "y": 220
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "boss-iceking-stand2",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 360,
+                "y": 220
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "boss-iceking-stand3",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 540,
+                "y": 220
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "boss-iceking-stand4",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 0,
+                "y": 440
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "boss-iceking-walk1",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 180,
+                "y": 440
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "boss-iceking-walk2",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 360,
+                "y": 440
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "boss-iceking-walk3",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 540,
+                "y": 440
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "boss-iceking-walk4",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 0,
+                "y": 660
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Gamma V2",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}

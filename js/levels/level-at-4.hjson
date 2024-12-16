@@ -1,0 +1,158 @@
+// ----------------------------- LEVEL 1 ---------------------------------
+{
+    worldName: at
+    levelNumber: 4
+    structure: {
+        startRoom: [
+            "   ,   ,   ,   ,   ,   "
+            "   ,   ,   ,   ,   ,   "
+            "   ,   ,   ,   ,   ,   "
+            "   ,  |,  |,|_ , °|,___"
+            "   ,__|,__|,|__,...,__|"
+            "   ,  |, °|,ply,pow,pow"
+            "   ,°°|, °|,°°°,|°°,°°|"
+            "   ,  |, _ ,   ,|  ,  |"
+            "|°°,   ,   ,__|,   ,  |"
+            "|  ,   ,__|,|°°,   ,  |"
+            "|__,|°°,   ,   ,   ,  |"
+        ],
+        rooms1: [
+            [
+                "   "
+                "   "
+                "   "
+                "___"
+                "°°|"
+                "pow"
+                "°°|"
+                "   "
+                "   "
+                "   "
+                "   "
+            ],
+            [
+                "   "
+                "   "
+                "   "
+                "___"
+                "   "
+                "pow"
+                "°°°"
+                "   "
+                "   "
+                "   "
+                "   "
+            ]
+        ],
+        rooms2: [
+            [
+                "   "
+                "   "
+                "   "
+                "___"
+                "   "
+                "pow"
+                "°°°"
+                "   "
+                "   "
+                "   "
+                "   "
+            ]
+        ]
+        rooms3: [
+            [
+                "   "
+                "   "
+                "   "
+                "___"
+                "   "
+                "pow"
+                "°°°"
+                "   "
+                "   "
+                "   "
+                "   "
+            ]
+        ]
+        finalRoom:
+        [
+            "  |,|  ,   ,   ,   ,   ,  |"
+            "  |,|  ,   ,   ,   ,   ,  |"
+            "  |,|  ,   ,   ,   ,   ,  |"
+            "__|,|  ,   ,   ,   ,   ,  |"
+            "   ,|__,___,___,___,___,__|"
+            "al1,   ,   ,   ,   ,   ,  |"
+            "°°|,   ,   ,   ,   ,   ,  |"
+            "  |,   ,   ,   ,bss,   ,|  "
+            "  |,   , _ ,   , _ ,   ,|__"
+            "  |,   ,   ,   ,   ,   , °|"
+            "  |,°°°,°°°,°°°,°°°,°°°,|O_"
+        ]
+
+    }
+    boss: {
+        type: "rob"
+        config: {
+            area: {
+                left: 2, 
+                right: 2,
+                up:1,
+                down: 1
+            },
+            lifes: 5,
+            walkSpeed: 200,
+            scale: 1.2,
+            cooldown: 200,
+            standTime: 1000,
+            patterns: {
+                stand: 1,
+                shoot: 11,
+                walk: 4
+            }
+        }
+    }
+    enemies: [
+        { id: 1, type: "walking", config: {walkWidth: 300, walkSpeed: 100, shoot:{
+            speed: 250,
+            distance: 500,
+            cooldown: 2000,
+            aimToPlayer: false
+        }}}
+        { id: 2, type: "flying", config: {flyHeight: 100, flySpeed: 110, scale: 0.5}}
+        { id: 3, type: "flying-2", config: {flyHeight: 100, flySpeed: 100, scale: 0.7}}
+        { id: 4, type: "walking-1", config: {walkWidth: 250, walkSpeed: 60}}
+        { id: 5, type: "flying-1", config: {flyHeight: 100, flySpeed: 170, scale: 0.6}}
+        { id: 6, type: "flying-1", config: {flyHeight: 100, flySpeed: 130, scale: 0.7}}
+        { id: 7, type: "flying-1", config: {flyHeight: 130, flySpeed: 120, scale: 0.7}}
+        { id: 8, type: "flying-2", config: {flyHeight: 160, flySpeed: 130, scale: 0.6}}
+    ]
+    bonus: [
+        { id: 1, type: "sticker-1"}
+        { id: 2, type: "accesory-1"}
+        { id: 3, type: "filter-1"}
+    ]
+    fruits: [
+        { id: 1, type: "guava"}
+        { id: 2, type: "mango"}
+        { id: 3, type: "red-apple"}
+    ]
+    artifacts: [
+        { id: 1, type: "shaker", side: "left"}
+    ]
+    allies: [
+        {
+            id: 1, 
+            type: "bmo", 
+            direction: "left", 
+            dialog: {
+                text: "Cuidado con el REY HELADO!",
+                x: 200,
+                y: 200
+            }
+        }
+    ]
+    config: {
+        tileWidth: 198//197
+        tileHeight: 200
+    }
+}

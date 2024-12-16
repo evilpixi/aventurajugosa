@@ -1,0 +1,294 @@
+{
+    "frames": [
+        {
+            "filename": "character-gumball-die-air1",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 0,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "character-gumball-die-air2",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 180,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "character-gumball-die-angel1",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 360,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "character-gumball-die-angel2",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 540,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "character-gumball-jump1",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 720,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "character-gumball-jump2",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 900,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "character-gumball-pow1",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 0,
+                "y": 220
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "character-gumball-pow2",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 180,
+                "y": 220
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "character-gumball-pow3",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 360,
+                "y": 220
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "character-gumball-stand1",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 540,
+                "y": 220
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "character-gumball-stand2",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 720,
+                "y": 220
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "character-gumball-stand3",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 900,
+                "y": 220
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "character-gumball-stand4",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 0,
+                "y": 440
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "character-gumball-wait1",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 180,
+                "y": 440
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "character-gumball-wait2",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 360,
+                "y": 440
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "character-gumball-wait3",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 540,
+                "y": 440
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "character-gumball-wait4",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 720,
+                "y": 440
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "character-gumball-wait5",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 900,
+                "y": 440
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "character-gumball-walk1",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 0,
+                "y": 660
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "character-gumball-walk2",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 180,
+                "y": 660
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "character-gumball-walk3",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 360,
+                "y": 660
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "character-gumball-walk4",
+            "frame": {
+                "w": 180,
+                "h": 220,
+                "x": 540,
+                "y": 660
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Gamma V2",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}
